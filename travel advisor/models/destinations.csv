@@ -1,0 +1,74 @@
+destination,description,category,state,avg_cost
+Goa,"Famous for beaches, nightlife, and Portuguese culture.",Beach,Goa,3500
+Manali,"Himalayan town known for snow, adventure sports, and scenic beauty.",Mountains,Himachal Pradesh,3000
+Jaipur,"Historic city with forts, palaces, and rich Rajasthani culture.",Heritage,Rajasthan,2800
+Varanasi,"Spiritual city on the Ganges, known for ghats and temples.",Spiritual,Uttar Pradesh,2000
+Mumbai,India’s financial capital with diverse culture and nightlife.,Urban,Maharashtra,4000
+Rishikesh,Yoga capital with serene Ganges views and adventure sports.,Spiritual,Uttarakhand,2200
+Pondicherry,French colonial town with beaches and tranquil vibes.,Beach,Puducherry,2500
+Leh,High-altitude desert known for monasteries and biking routes.,Mountains,Ladakh,3500
+Darjeeling,Tea gardens and scenic Himalayan views.,Mountains,West Bengal,2700
+Kochi,"Port city with backwaters, heritage sites, and spice markets.",Urban,Kerala,2600
+Udaipur,City of lakes and royal heritage.,Heritage,Rajasthan,3000
+Mysuru,"Palaces, culture, and famous Dasara festival.",Heritage,Karnataka,2500
+Agra,"Home to the Taj Mahal, symbol of love and Mughal architecture.",Heritage,Uttar Pradesh,2500
+Chennai,Cultural hub with temples and beaches.,Urban,Tamil Nadu,2800
+Ooty,Hill station known for tea gardens and cool climate.,Mountains,Tamil Nadu,2600
+Shimla,Colonial hill station with scenic valleys.,Mountains,Himachal Pradesh,2700
+Hyderabad,City of pearls with tech hubs and historic Charminar.,Urban,Telangana,3200
+Kolkata,Cultural capital with colonial architecture and festivals.,Urban,West Bengal,2900
+Ahmedabad,Historic city with Sabarmati Ashram and vibrant food.,Urban,Gujarat,2600
+Sikkim,Peaceful Himalayan state with monasteries and nature.,Mountains,Sikkim,2800
+Amritsar,Spiritual center home to the Golden Temple.,Spiritual,Punjab,2300
+Bodh Gaya,Buddhist pilgrimage site where Buddha attained enlightenment.,Spiritual,Bihar,1800
+Rann of Kutch,White salt desert famous for Rann Utsav.,Adventure,Gujarat,3000
+Coorg,Coffee plantations and misty hills.,Mountains,Karnataka,2700
+Andaman Islands,Tropical beaches and coral reefs.,Beach,Andaman & Nicobar,4500
+Gokarna,Peaceful beach town with temples.,Beach,Karnataka,2500
+Khajuraho,Temple town known for ancient sculptures.,Heritage,Madhya Pradesh,2400
+Bhopal,"Lakes, heritage, and greenery.",Urban,Madhya Pradesh,2300
+Kaziranga,Wildlife reserve with one-horned rhinos.,Wildlife,Assam,3200
+Sundarbans,Mangrove forest and tiger reserve.,Wildlife,West Bengal,3400
+Ranthambore,Tiger reserve with forts and jungle safaris.,Wildlife,Rajasthan,3500
+Jim Corbett,India’s first national park with rich biodiversity.,Wildlife,Uttarakhand,3100
+Lonavala,Hill station near Mumbai with waterfalls.,Mountains,Maharashtra,2500
+Kodaikanal,Serene hill station known for lakes and pine forests.,Mountains,Tamil Nadu,2600
+Mahabalipuram,Temple town on the coast with ancient rock carvings.,Heritage,Tamil Nadu,2300
+Tirupati,Spiritual city known for Lord Venkateswara Temple.,Spiritual,Andhra Pradesh,2200
+Kanyakumari,Southernmost tip with sunrise and sunset views.,Beach,Tamil Nadu,2600
+Cherrapunji,Wettest place on Earth with waterfalls and caves.,Mountains,Meghalaya,2800
+Shillong,Scotland of the East with lively music and hills.,Mountains,Meghalaya,2700
+Munnar,Tea plantations and cool weather.,Mountains,Kerala,2800
+Alleppey,Backwaters and houseboat experiences.,Beach,Kerala,3000
+Varkala,Cliffside beach destination.,Beach,Kerala,2700
+Auli,Ski destination with snow-capped peaks.,Adventure,Uttarakhand,3500
+Guwahati,Gateway to Northeast India with Kamakhya temple.,Urban,Assam,2400
+Jaisalmer,Golden city with desert safaris and forts.,Heritage,Rajasthan,3200
+Hampi,UNESCO heritage site of ancient ruins.,Heritage,Karnataka,2700
+Mount Abu,Only hill station of Rajasthan.,Mountains,Rajasthan,2600
+Nainital,Lake district of India.,Mountains,Uttarakhand,2700
+Lucknow,City of Nawabs with heritage and food.,Urban,Uttar Pradesh,2500
+Nagpur,Center of India known for oranges.,Urban,Maharashtra,2400
+Ranchi,Waterfalls and greenery.,Urban,Jharkhand,2200
+Puri,Beach and Jagannath Temple.,Spiritual,Odisha,2300
+Konark,Sun Temple and cultural heritage.,Heritage,Odisha,2400
+Bhuj,Cultural town with crafts and deserts.,Heritage,Gujarat,2500
+Gangtok,Scenic capital of Sikkim with monasteries.,Mountains,Sikkim,2800
+Haridwar,Sacred city with Ganga Aarti.,Spiritual,Uttarakhand,2000
+Dehradun,Valley city near the Himalayas.,Urban,Uttarakhand,2400
+Patna,Historic city on the Ganges.,Urban,Bihar,2200
+Tawang,Monasteries and snow peaks.,Mountains,Arunachal Pradesh,3300
+Itanagar,Hilly capital with rich tribal culture.,Urban,Arunachal Pradesh,2400
+Bhubaneswar,Temple city with historic charm.,Urban,Odisha,2400
+Madurai,Ancient temple city known for Meenakshi Temple.,Heritage,Tamil Nadu,2500
+Vijayawada,Modern city with temples and river views.,Urban,Andhra Pradesh,2600
+Gwalior,Fort city with musical heritage.,Heritage,Madhya Pradesh,2400
+Ravangla,Quiet hill town with monasteries.,Mountains,Sikkim,2500
+Chikmagalur,Coffee capital surrounded by hills.,Mountains,Karnataka,2700
+Bandhavgarh,Tiger reserve in central India.,Wildlife,Madhya Pradesh,3200
+Gir,Home to Asiatic lions.,Wildlife,Gujarat,3500
+Pench,Wildlife sanctuary with jungle safaris.,Wildlife,Madhya Pradesh,3100
+Spiti Valley,Remote Himalayan valley with monasteries.,Adventure,Himachal Pradesh,3500
+Ziro,Scenic valley known for music festival.,Adventure,Arunachal Pradesh,3200
+Srinagar,Paradise on Earth with Dal Lake.,Mountains,Jammu & Kashmir,3400
+Gulmarg,Ski resort with breathtaking views.,Adventure,Jammu & Kashmir,3600

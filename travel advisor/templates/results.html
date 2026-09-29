@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <h2>Recommended Destinations</h2>
+  {% if destinations %}
+  <div class="results">
+    {% for d in destinations %}
+    <div class="card-destination">
+      <img src="{{ d.image_url or url_for('static', filename='images/default.jpg') }}" class="thumb" alt="{{ d.name }}">
+      <div class="dest-body">
+        <div class="dest-title">{{ d.name }}, {{ d.country }}</div>
+        <div class="dest-meta">{{ d.category }} • ₹{{ d.avg_cost }}</div>
+        <div class="dest-desc">{{ d.description[:140] }}...</div>
+        <div class="info-row">
+          <span>🌤️ {{ d.weather.temp }}°C, {{ d.weather.desc }}</span>
+        </div>
+        <div class="dest-actions">
+          <a class="btn btn-ghost" target="_blank" href="https://www.google.com/maps/search/?api=1&query={{ d.latitude }},{{ d.longitude }}">Open Map</a>
+          <a class="btn btn-primary" href="/itinerary/{{ d.id }}">View Itinerary</a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="empty">No destinations found for your preferences.</div>
+  {% endif %}
+</div>
+{% endblock %}
