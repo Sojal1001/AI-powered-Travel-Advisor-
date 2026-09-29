@@ -62,7 +62,7 @@ Adjust the structure to match the actual repository.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Travel-Advisor.git
+git clone https://github.com/Sojal1001/AI-Travel-Advisor.git
 cd AI-Travel-Advisor
 ```
 
